@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  background: linear-gradient(
+    to bottom,
+    #121212 0%,
+    #121212 200px,
+    #f5f5f5 200px
+  ); /* black strip on top, white below */
+  font-family: Arial, sans-serif;
+  min-height: 100vh;
+}
